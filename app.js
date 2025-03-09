@@ -24,7 +24,7 @@ function actualizarLista(){
 }
 
 function sortearAmigo(){
-    if (amigos.lenght === 0){
+    if (amigos.length === 0){
         document.getElementById('resultado').innerHTML = "No hay amigos en la lista para sortear.";
         return;
     }
