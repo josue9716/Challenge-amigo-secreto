@@ -10,6 +10,7 @@ function agregarAmigo() {
 
         amigos.push(nombreImput);
         document.getElementById('amigo').value = "";
+        actualizarLista();
     }
 
 }
