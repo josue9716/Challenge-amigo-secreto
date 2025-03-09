@@ -35,6 +35,7 @@ Este es un sencillo proyecto en JavaScript que permite agregar nombres a una lis
 - Haz clic en "Sortear" para seleccionar un amigo al azar.
 
 <h2>📜 Código principal (JavaScript)</h2>
+
 let amigos = [];
 
 function agregarAmigo() {
