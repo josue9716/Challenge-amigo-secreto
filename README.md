@@ -1,3 +1,3 @@
 <h1>Challenge-amigo-secreto</h1> 
 
-- Estado del proyecto: en desarollo.
+- Estado del proyecto: Completado.
